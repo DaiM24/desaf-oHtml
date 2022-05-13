@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(172, 224, 177);
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-size: 23px;
+}
+
+#título1 {
+    text-align: center;
+    margin: 200px 500px 0px 500px;
+}
+
+h1, h4, p{
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 350px;
+    border-radius: 100%;
+    border: 5px solid rgb(95, 161, 131);
+    margin-left: 550px;
+}
+
+.título2 {
+    text-align: center;
+}
+
+.recuadro {
+    margin: 10px 500px 0px 500px;
+    border: 5px solid rgb(95, 161, 131);
+}
+
+.info{
+    margin: 0px auto;
+    text-align: center;
+}
